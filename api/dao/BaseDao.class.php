@@ -25,6 +25,7 @@ public function update(){
 }
 
 public function query(){
+  // SELECT * FROM users WHERE id = 7;
 
 }
 
