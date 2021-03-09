@@ -1,12 +1,3 @@
 <?php
-
-echo "Hello world";
-
-
-
-
-
-
-
-
+echo "Hello from index.php"
 ?>

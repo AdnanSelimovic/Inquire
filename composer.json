@@ -1,0 +1,12 @@
+{
+    "name": "ibu/inquire",
+    "description": "Reward based forum website",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "AdnanSelimovic",
+            "email": "adnanselimovic33@gmail.com"
+        }
+    ],
+    "require": {}
+}
